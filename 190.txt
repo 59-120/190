@@ -1,0 +1,13 @@
+Enhorabuena, has encontrado la cuarta pista:
+
+222.12.65.198/22
+Responde a las siguientes preguntas y usa la consola de la página web para poner las respuestas(f12)(ctrl+shift+c).
+Nota: los números no pueden ir con exponente.
+
+Clase de la dirección?
+Número CIDR?
+Número de Redes, Hosts y Subredes?
+Número de Bits de Redes, Hosts y Subredes?
+Máscara de Red por defecto?
+
+La respuesta ha de ponerse así: "QuintaPista.Main(respuesta)" en la consola.
